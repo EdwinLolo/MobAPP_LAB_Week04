@@ -6,8 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".FavoritesFragment"
     android:padding="20dp">
-
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -31,5 +29,4 @@
             app:drawableStartCompat ="@drawable/favorite"
             android:drawablePadding="10dp"/>
     </LinearLayout>
-
 </ScrollView>
